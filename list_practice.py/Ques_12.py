@@ -1,3 +1,4 @@
+#ques 12: Write a Python program to find the maximum and minimum values in a list.
 nums = [10, 5, 20, 3]
 #   isme max pr main ek variable hai 
 maximum = nums[0]    # kuki hume comparison start karne ke liye
