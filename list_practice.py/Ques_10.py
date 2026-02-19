@@ -1,3 +1,5 @@
+# ques 10: Write a Python program to remove duplicate elements from a list.
+
 num = [1,2,3,2,4,1,5,3]
 unique =[]
 for i in num:

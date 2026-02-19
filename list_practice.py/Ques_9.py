@@ -1,3 +1,5 @@
+#  ques 9: Write a Python program that takes 5 numbers as input from the user, stores them in a list, and then calculates and prints the average of those numbers.
+
 num = []
 
 

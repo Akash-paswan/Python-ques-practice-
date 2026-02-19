@@ -2,3 +2,4 @@
 num = [5,6,1,4,25,89]
 print( "first num is :",num[0])
 print( "second num is :",num[5])
+# print( "second num is :",num[-1])  # ye bhi last element ko print karega

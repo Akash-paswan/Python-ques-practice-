@@ -1,7 +1,7 @@
-# Ques 7: Write a Python program to find the second largest number in a list.
+# Ques 7: Write a Python program to find the second smallest  number in a list.
 num = [10,20,30,4,5,8,]
 num.sort()
-print("seconmd largest number is:",num[1])
+print("seconmd smallest  number is:",num[1])
 
 
 
