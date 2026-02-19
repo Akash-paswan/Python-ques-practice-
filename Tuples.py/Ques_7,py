@@ -1,0 +1,6 @@
+#  ques 7 Convert a list of numbers into a tuple
+nums = [10, 20, 30, 40, 50]
+
+t = tuple(nums)
+
+print(t)

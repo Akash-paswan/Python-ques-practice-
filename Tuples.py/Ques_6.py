@@ -2,7 +2,7 @@
 
 nums = []     # creatre a empty list to store the numbers
 
-for i in range(5):
+for i in range(5):   
     n = int(input("enter a number: "))
     nums.append(n) 
     
