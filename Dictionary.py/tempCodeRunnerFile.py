@@ -1,7 +1,12 @@
-
-#     "math": 90,
-#     "english": 85,
-#     "science": 88,
+ents = {
+#     "Aman": 80,
+#     "Riya": 85,
+#     "Akash": 90,
+#     "Rahul": 75,
+#     "Priya": 88
 # }
-# print(marks.keys())
-# print(marks.values())
+
+# total = sum(students.values())
+# average = total / len(students)
+
+# print("Average marks:", average)
