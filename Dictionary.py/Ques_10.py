@@ -1,3 +1,6 @@
+#  ques 10: Write a Python program to reverse the key-value pairs of a dictionary.
+
+
 original = {"a": 1, "b": 2}
 
 reversed_dict = {}
