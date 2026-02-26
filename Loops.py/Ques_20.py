@@ -1,3 +1,5 @@
+#  ques ATM machine simulation (withdraw until balance becomes 0
+
 balance = 1000
 
 while balance > 0:
