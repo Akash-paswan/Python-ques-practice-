@@ -1,3 +1,5 @@
+#  ques Find smallest number in a list
+
 numbers = [10,5,8,2,15]
 smallest = numbers[0]
 
