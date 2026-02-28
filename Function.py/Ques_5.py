@@ -1,3 +1,5 @@
+#  ques Write a function that takes name and age as arguments and prints them using keyword arguments.
+
 def students(name,age):
     print("name:",name)
     print("age:",age)
